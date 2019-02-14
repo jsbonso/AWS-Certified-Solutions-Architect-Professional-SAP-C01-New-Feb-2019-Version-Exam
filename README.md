@@ -44,13 +44,13 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS%20Certified%
 
 I highly encourage you to do some intensive reading on the following topics:
 
-Cloud Migration: https://aws.amazon.com/cloud-migration/
-AWS Organizations & SCP: https://aws.amazon.com/organizations/getting-started/
-SCP vs IAM Policy: https://aws.amazon.com/premiumsupport/knowledge-center/iam-policy-service-control-policy/
-Serverless: https://aws.amazon.com/serverless/
-Access Management: https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/access.html
-Web application hosting in AWS: https://d0.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf
-AWS Disaster Recovery: http://d36cz9buwru1tt.cloudfront.net/AWS_Disaster_Recovery.pdf
+ - Cloud Migration: https://aws.amazon.com/cloud-migration/
+ - AWS Organizations & SCP: https://aws.amazon.com/organizations/getting-started/
+ - SCP vs IAM Policy: https://aws.amazon.com/premiumsupport/knowledge-center/iam-policy-service-control-policy/
+ - Serverless: https://aws.amazon.com/serverless/
+ - Access Management: https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/access.html
+ - Web application hosting in AWS: https://d0.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf
+ - AWS Disaster Recovery: http://d36cz9buwru1tt.cloudfront.net/AWS_Disaster_Recovery.pdf
 
 
 ## Huge Discount on the AWS Practice Test in Udemy
