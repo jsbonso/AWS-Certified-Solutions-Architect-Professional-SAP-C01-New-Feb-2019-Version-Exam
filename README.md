@@ -59,9 +59,9 @@ To get up to 85% OFF, just use the coupon code: TUTORIALSDOJO
 
 https://www.udemy.com/aws-solutions-architect-professional-practice-exams-2018/?couponCode=TUTORIALSDOJO
 
-## Jon Bonso's AWS Solutions Architect Professional Practice Exams in Udemy
+## AWS Solutions Architect Professional Practice Exams in Udemy
 
-Disclaimer: This is not an exam dump of the actual AWS exam. 
+Disclaimer: This is not an exam dump of the actual AWS exam.  
 
 The questions in each set are carefully created and selected based on the 5 domains of the actual AWS Certified Solutions Architect Professional exam. Out of the 5 domains, there are a lot more questions on *Design for New Solutions and Continuous Improvement for Existing Solutions*, as these are the topics with the heaviest weight in the actual exam (29%). Take Note that although there is a focus on these topics, the questions are all still unique, to ensure that you fully grasp the topic.
 
