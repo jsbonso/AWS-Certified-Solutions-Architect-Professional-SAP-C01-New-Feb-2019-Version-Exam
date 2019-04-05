@@ -60,9 +60,9 @@ I highly encourage you to do some intensive reading on the following topics:
 
 ## Huge Discount on the AWS Practice Test in Udemy
 
-To get up to 85% OFF, just use the coupon code: TUTORIALSDOJO
+To get up to 85% OFF, just use the coupon code: TUTORIALSDOJO_G1
 
-https://www.udemy.com/aws-solutions-architect-professional-practice-exams-2018/?couponCode=TUTORIALSDOJO
+https://www.udemy.com/aws-solutions-architect-professional-practice-exams-2018/?couponCode=TUTORIALSDOJO_G1
 
 ## AWS Solutions Architect Professional Practice Exams in Udemy
 
