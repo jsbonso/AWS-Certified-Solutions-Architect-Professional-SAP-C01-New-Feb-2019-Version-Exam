@@ -4,7 +4,7 @@
 
 - The new exam has *75* questions that you have to finish within *3* hours (180 minutes) with a minimum passing score of 750 out of 1000. The official AWS exam page says the exam is 170 minutes, but that is actually incorrect. I took the exam and it is 180 minutes and not 170 minutes. 
 - You won't pass the exam if you don't know about AWS Organizations, Difference between SCP vs IAM Policy, Cross-Region Disaster Recovery, AWS Serverless Application Model (AWS SAM), AWS Server Migration Service (SMS), AWS Systems Manager, AWS CI/CD Tools (CodeCommit, CodeBuild, CodeDeploy, CodePipeline) and many more
-- Get the AWS SA Professional practice tests in Udemy, which the TutorialsDojo team patterned the exam scenario, with up to 85% OFF by using the coupon code: *TUTORIALSDOJO* or by visting this link:  https://www.udemy.com/aws-solutions-architect-professional-practice-exams-2018/?couponCode=TUTORIALSDOJO
+- Get the AWS SA Professional practice tests in Udemy, which the TutorialsDojo team patterned the exam scenario, with up to 85% OFF by using the coupon code: *TUTORIALSDOJO_G1* or by visting this link:  https://www.udemy.com/aws-solutions-architect-professional-practice-exams-2018/?couponCode=TUTORIALSDOJO_G1
 
 - Helpful AWS Cheat sheets: * https://tutorialsdojo.com/aws-cheat-sheets/
 
